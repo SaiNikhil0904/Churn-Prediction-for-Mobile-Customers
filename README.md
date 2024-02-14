@@ -39,7 +39,7 @@ Predicting customer churn can have a significant impact on businesses, allowing 
 ### 7. Hyperparameter Tuning
 - Optimizing Random Forest parameters using GridSearchCV to enhance model performance and achieve better predictive accuracy.
 
-Explore the code and results in the [Jupyter Notebook or Colab file](https://colab.research.google.com/drive/1IZeFM3MB7tvKe-S9RrKsgtxS_7RF80aN?usp=sharing) to understand the details of each key feature and the overall workflow of the Customer Churn Prediction project.
+Explore the code and results in the [Colab file](https://colab.research.google.com/drive/14aamLxeto6Ds-XxFQ_oFtUS-3VQDGGBU?usp=sharing) to understand the details of each key feature and the overall workflow of the Customer Churn Prediction project.
 
 ## Requirements
 
